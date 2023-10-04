@@ -2,7 +2,7 @@
 
 ## Assignment Description
 
-The purpose of the semester project is to implement the theory we discussed in class with designing, implementing, and evaluating visualization methods. You will be presenting a unique point of view using data to back up your conclusion. In particular, your project should address a concrete visualization problem and propose a novel, creative solution and its scope and ambition should reflect the roughly 6 weeks you have to work on it. Though the majority of final projects typically involve developing a software artifact, design studies or evaluations of visualization techniques may also be acceptable projects — please talk to the instructor if you have questions.
+The purpose of the semester project is to implement the theory we discussed in class with designing, implementing, and evaluating visualization methods. You will be presenting a unique point of view using data to back up your conclusion. In particular, your project should address a concrete visualization problem and propose a novel, creative solution and its scope and ambition should reflect the roughly 6 weeks you have to work on it. Though the majority of final projects will typically involve developing a software artifact, design studies or evaluations of visualization techniques may also be acceptable projects — please talk to the instructor if you have questions.
 
 This semester project is fairly open-ended. As long as the presention provides a uniqie, non-obvious viewpoint, which is backed by data and uses the techniques and fundamentals we have discussed during the semester, nearly any topic will be allowed (within reason for a university course, of course).
 
