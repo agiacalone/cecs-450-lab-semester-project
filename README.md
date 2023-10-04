@@ -4,7 +4,7 @@ The purpose of the semester project is to implement the theory we discussed in c
 
 This semester project is fairly open-ended. As long as the presention provides a uniqie, non-obvious viewpoint, which is backed by data and uses the techniques and fundamentals we have discussed during the semester, nearly any topic will be allowed (within reason for a university course, of course).
 
-Projects will be carried out in teams of approximately 3 people. The final deliverable will be an implementation of the proposed solution and a short paper written with the [IEEE format](https://www.ieee.org/conferences/publishing/templates.html). In addition, you will be responsible for participating in a design review and presenting your final results as part of a final project showcase at the end of the semester.
+Projects will be carried out in teams of approximately 3 people. The final deliverable will be an implementation of the proposed solution and a short group-written paper written with the [IEEE format](https://www.ieee.org/conferences/publishing/templates.html). In addition, you will be responsible for participating in a design review and presenting your final results as part of a final project showcase at the end of the semester.
 
 You will be keeping your project data files, R code, Python or other programming language files, and any other relevant documentation (including your write-up) in a git repository. I have included a Google Drive form for you to fill out (once per team, please) which will ask for your group members names, Github usernames, and the project repository. I *must* be added as a contributor to your repository, else your group will lose points.
 
