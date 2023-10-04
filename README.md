@@ -14,5 +14,5 @@ Prior to starting your project, it is helpful to gain a sense of what goes into 
 
 ## Links
 
-- [Link to the Google Drive form](https://forms.gle/g5PijtbqvLGAUYb87)
+- [Google Drive form](https://forms.gle/g5PijtbqvLGAUYb87)
 - [A Nested Model for Visualization Design and Validation - Tamara Munzner (PDF)](https://github.com/agiacalone/cecs-450-lab-semester-project/blob/1d7d49df2bce525b5f7d8cff949cde91d62f9424/Munzner%20-%20A%20Nested%20Model%20for%20Visualization%20Design%20and%20Validation.pdf)
