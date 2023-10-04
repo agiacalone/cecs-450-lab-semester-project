@@ -1,4 +1,4 @@
-#CECS 450: Semester Project
+# CECS 450: Semester Project
 
 The purpose of the semester project is to implement the theory we discussed in class with designing, implementing, and evaluating visualization methods. In particular, your project should address a concrete visualization problem and propose a novel, creative solution and its scope and ambition should reflect the roughly 6 weeks you have to work on it. Though the majority of final projects typically involve developing a software artifact, design studies or evaluations of visualization techniques may also be acceptable projects — please talk to the instructor if you have questions.
 
